@@ -14,4 +14,5 @@
 
 |  Demo   | Project                                                                                                                                                  |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/nabiull1n/PhotoManiaTest/blob/main/test.gif" width="300">| **PhotoManiaTest**<br>**Tech Stack**: SwiftUI, API.<br>Link: [GitHub](https://github.com/nabiull1n/PhotoManiaTest) |
 | <img src="https://github.com/nabiull1n/CalculatorTest/blob/main/calculator.png" width="300">| **CalculatorApp**<br>**Tech Stack**: UIKit, Auto Layout, MVC.<br>Link: [GitHub](https://github.com/nabiull1n/CalculatorTest) |
