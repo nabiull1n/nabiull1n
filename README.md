@@ -3,7 +3,7 @@
 
 ---
 ## Pet projects published on GitHub:
-https://github.com/nabiull1n/FoodMenuApp/blob/main/Food.gif
+
 |  Demo   | Project                                                                                                                                                  |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/nabiull1n/FoodMenuApp/blob/main/Food.gif" width="300"> | **FoodApp**<br>**Tech Stack**: UIKit, Auto Layout, MVVM, Realm.<br>Link: [GitHub](https://github.com/nabiull1n/FoodMenuApp) |
