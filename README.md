@@ -9,7 +9,7 @@
 | <img src="https://github.com/nabiull1n/FoodMenuApp/blob/main/Food.gif" width="300"> | **FoodApp**<br>**Tech Stack**: UIKit, Auto Layout, MVVM, Realm.<br>Link: [GitHub](https://github.com/nabiull1n/FoodMenuApp) |
 | <img src="https://github.com/nabiull1n/testTaskPlayer/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2013%20-%202023-06-12%20at%2019.44.10.gif" width="300"> | **Player**<br>**Tech Stack**: UIKit, Auto Layout, MVP.<br>Link: [GitHub](https://github.com/nabiull1n/testTaskPlayer) |
 | |
-| <img src="[https://github.com/nabiull1n/TimerApp/blob/main/Simulator%20TimerApp.gif](https://github.com/nabiull1n/MapAppComponents/blob/main/map.gif)" width="300"> | **MapAppComponents**<br>**Tech Stack**: UIKit, Auto Layout, MapKit.<br>Link: [GitHub](https://github.com/nabiull1n/MapAppComponents) |
+| <img src="https://github.com/nabiull1n/MapAppComponents/blob/main/map.gif" width="300"> | **MapAppComponents**<br>**Tech Stack**: UIKit, Auto Layout, MapKit.<br>Link: [GitHub](https://github.com/nabiull1n/MapAppComponents) |
 |  |
 
 ## Study projects published on GitHub:
